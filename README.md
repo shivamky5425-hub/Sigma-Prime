@@ -1,2 +1,2 @@
 # Sigma-Prime
-This is Git &amp; Github class
+This is Git &amp; Github class.
